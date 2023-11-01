@@ -9,8 +9,8 @@
 <a href="https://velog.io/@junhyung">
 <img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> 
 
-<div align="center">
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun_hyung"/>
+<div aling="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun_hyung"/>
 </div>
 
 ### TOOLS
