@@ -2,16 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=2E4374,4B527E,7C81AD,E5C3A6,30&height=150&section=header&text=JunHyung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55">
 
-  
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun_hyung"/>  
   
 ## 👋 Jun Hyung 👋 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhyung001&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false(https://hits.seeyoufarm.com)">
 <a href="https://velog.io/@junhyung">
 <img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> 
 
-<div aling="right">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun_hyung"/>
-</div>
+
 
 ### TOOLS
 <div align="center>
