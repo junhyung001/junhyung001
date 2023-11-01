@@ -22,12 +22,14 @@
 
 </div>
 
+<div align="center">
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun_hyung"/>
+</div>
 
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyung001&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun_hyung"/>
-
+  
   ### 🛠 SKILL 🛠
   
   <br>
