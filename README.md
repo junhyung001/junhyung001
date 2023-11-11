@@ -10,18 +10,16 @@
     <img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
 
-  <div align="center">
+  <div style="text-align: center;">
     <h3>TOOLS</h3>
     <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   </div>
-</div>
 
-<div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyung001&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
 
-  <div align="center">
+  <div style="text-align: center;">
     <h3>🛠 SKILL 🛠</h3>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
